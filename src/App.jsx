@@ -1,9 +1,9 @@
 import { useState } from "react";
 
 // ─── EmailJS config – replace these 3 values ───────────────────────────
-const EMAILJS_SERVICE_ID  = "YOUR_SERVICE_ID";
-const EMAILJS_TEMPLATE_ID = "YOUR_TEMPLATE_ID";
-const EMAILJS_PUBLIC_KEY  = "YOUR_PUBLIC_KEY";
+const EMAILJS_SERVICE_ID  = "service_ngfd67t";
+const EMAILJS_TEMPLATE_ID = "template_53mf3p5";
+const EMAILJS_PUBLIC_KEY  = "77kG6VV80oYTZcltG";
 const OWNER_EMAIL         = "mohamad.ali10id@gmail.com";
 // ────────────────────────────────────────────────────────────────────────
 const FOOD_IMGS = {
